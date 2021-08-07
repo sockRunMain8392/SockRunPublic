@@ -23,6 +23,10 @@
             https://stackoverflow.com/questions/20279484/how-to-access-the-correct-this-inside-a-callback
 
             For the art:
+            
+              Website: Pixilart
+              About: This was used to make the spritesheets 
+              Link: https://www.pixilart.com/
 
               Author: MortMort
               Title: CHARACTER & ANIMATION Top down RPG (Pixel Art Tutorial)
