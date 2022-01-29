@@ -1,13 +1,10 @@
-# SockRunPublic
-
- 
       SOURCES:
-        List of all the resources I used
+        List of all the resources I used to learn this stuff
             
-            //For learning how to rotate bullets correctly
+            //For learning how bullet go pew
             http://proclive.io/shooting-tutorial/
         
-            //
+            //Just cool
             https://www.codepen.io/andyranged/pen/aPojMW
             
             //Poth on Programming's Youtube Channel 
@@ -22,11 +19,36 @@
             //For the animation
             https://stackoverflow.com/questions/20279484/how-to-access-the-correct-this-inside-a-callback
 
-            For the art:
+            //The 8bit Font used:
+            Author: CodeMan38
+            Title: Press Start 2P
+            Link: https://fonts.google.com/specimen/Press+Start+2P?query=8
             
-              Website: Pixilart
-              About: This was used to make the spritesheets 
-              Link: https://www.pixilart.com/
+            For the art:
+              Link: https://kayillustrations.itch.io/parallax-sunset-mountains?download
+              Author:kayillustrations
+              About: background
+              Title:parallax sunset mountains
+
+              Link: https://digitalmoons.itch.io/pixel-skies-demo
+              Author: digitalmoons
+              About: background
+              Title: pixel skies demo
+
+              Link: https://enjl.itch.io/background-starry-space
+              Author: enjl
+              About: background
+              Title: background starry space
+
+              Link: https://pixeloverload.itch.io/desert-parallex-assets
+              Author: pixeloverload
+              About: background
+              Title: Desert Parallex assets
+
+              Author: Edermunizz
+              Title: Free Pixel Art Forest
+              About: A background for the game
+              Link: https://edermunizz.itch.io/free-pixel-art-forest
 
               Author: MortMort
               Title: CHARACTER & ANIMATION Top down RPG (Pixel Art Tutorial)
@@ -65,9 +87,6 @@
               Link: https://64.media.tumblr.com/c108e82efee42056001fd1fcb415be5e/tumblr_inline_orlowlgPOa1qdiwz3_1280.gif
 
             //Useful Site https://codepen.io/andyranged/pen/aPojMW
-            //Also the youtube channel Poth on Programming was useful: https://www.youtube.com/c/PothOnProgramming/featured
+            //Also thanks to Poth on Programming 
                
-            Sounds from kronbits Link: https://kronbits.itch.io/freesfx:
-
-        
-        
+            Sounds from kronbits Link:https://kronbits.itch.io/freesfx:
